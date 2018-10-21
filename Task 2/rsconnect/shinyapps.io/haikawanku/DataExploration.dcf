@@ -1,0 +1,13 @@
+name: DataExploration
+title: DataExploration
+username:
+account: haikawanku
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 525948
+bundleId: 1652932
+url: https://haikawanku.shinyapps.io/DataExploration/
+when: 1540038638.53888
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Notes.txt|task2.docx|task2_data.txt|task2_logo.png

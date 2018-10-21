@@ -1,0 +1,12 @@
+name: ReadData
+title: ReadData
+username:
+account: haikawanku
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 494703
+bundleId: 1625075
+url: https://haikawanku.shinyapps.io/ReadData/
+when: 1538745660.02678
+asMultiple: FALSE
+asStatic: FALSE
