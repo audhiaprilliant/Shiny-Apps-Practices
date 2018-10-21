@@ -10,7 +10,7 @@ ui = fluidPage(
       selectInput(inputId = 'dropdown', label = 'Choose separator', 
                   choices = c('Comma' = ',','Titik Koma'=';','Space'=' ')),
       selectInput(inputId = 'dropdown_column', label = "Choose column's name!",choices = c('')),
-      checkboxInput(inputId = 'data2', label = "Checklist if you want to read first row as data!")
+      checkboxInput(inputId = 'data2', label = "Checklist if you do not want to read first row as data!")
       
     ),
     mainPanel(
