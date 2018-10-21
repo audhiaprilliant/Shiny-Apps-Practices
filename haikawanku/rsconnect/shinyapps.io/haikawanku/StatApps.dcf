@@ -1,0 +1,13 @@
+name: StatApps
+title: StatApps
+username:
+account: haikawanku
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 479227
+bundleId: 1613035
+url: https://haikawanku.shinyapps.io/StatApps/
+when: 1538235474.69248
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tinggi.badan.csv|www/Images/download.jpg
