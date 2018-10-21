@@ -7,7 +7,7 @@ ui = fluidPage(
     sidebarPanel(
       fileInput(inputId = "data1", label = "Input your file!", buttonLabel = "Browse...",
                 placeholder = "No file selected"),
-      checkboxInput(inputId = 'data2', label = "Checklist if you want to read first row as data!")
+      checkboxInput(inputId = 'data2', label = "Checklist if you don not want to read first row as data!")
     ),
     mainPanel(
       # OUTPUT DISPLAY
