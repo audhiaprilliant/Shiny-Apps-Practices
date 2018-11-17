@@ -1,0 +1,8 @@
+=== Session ===
+Session is used to update our widget and also to distiguish every user
+who access our R-Shiny App
+
+x = 1:10
+data.frame(minimum = min(x), Q1 = quartile(x, 0.25), 
+	   median = median(x), mean = mean(x), standard.deviation =
+	   sd(x), Q3 = quntile(x, 0.75))
