@@ -4,8 +4,7 @@ ui = fluidPage(
    titlePanel("Buttons in R-Shiny Apps"),
    sidebarLayout(
       sidebarPanel(
-        textAreaInput(inputId = 'data', label = 'Input your data!', placeholder = 'Pisahkan dengan spasi and 
-                      use point (.) for decimal'),
+        textAreaInput(inputId = 'data', label = 'Input your data!', placeholder = 'Separate with space and use point (.) for decimal'),
         actionButton(inputId = 'process', label = 'Process')
       ),
       
